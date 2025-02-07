@@ -1,0 +1,27 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+.box{
+    width: 460px;
+    margin: 0 auto;
+    background-color: rgb(9, 27, 31);
+}
+.a{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(5, 245, 125);
+    text-align: center;
+    line-height: 40px;
+    color: #ffffff;
+    margin-left: 30px;
+}
+.a2{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(87, 86, 86);
+    text-align: center;
+    line-height: 40px;
+    color: #ffffff;
+    margin-left: 230px;
+}
